@@ -1,0 +1,36 @@
+.footer {
+    width: 100%;
+}
+
+.iconoredes {
+    text-align: center;
+    
+}
+
+.ajusteicono {
+    display: block;
+    margin: auto;
+    
+        
+}
+
+.textofooter {
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    background-color: slateblue;
+    height: 70px;
+}
+
+.img3 {
+    width: 60px;
+    height: 70px;
+}
+
+.img4 {
+    width: 20px;
+    height: 30px;
+}

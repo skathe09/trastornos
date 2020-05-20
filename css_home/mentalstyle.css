@@ -1,0 +1,30 @@
+h2 {
+    text-align: center;
+    color: saddlebrown;
+    font-size: 27px;
+    
+    
+}
+
+body {
+    text-justify: auto;
+    color: saddlebrown;
+    background-color: silver;
+    text-align: center;
+    
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 250px;
+    height: 150px;
+    
+}
+
+
+p {
+    text-align: justify;
+    color: saddlebrown;
+    text-align: center;
+}
